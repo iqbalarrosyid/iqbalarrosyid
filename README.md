@@ -1,3 +1,4 @@
+![alt text](https://media.licdn.com/dms/image/D5616AQG6OpsSAgrHfA/profile-displaybackgroundimage-shrink_350_1400/0/1715244225173?e=1720656000&v=beta&t=VFUlG7NpIjakkhSArrPQ9-qB9BLgaisS-gvx-xx14eA)
 # 💫 About Me:
 # Hi, I'm Iqbal Arrosyid! 👋
 I'm a 6th-semester Informatics student with a passion for web development and related technologies. I specialize in building dynamic web applications with a variety of tools. Here are some of the skills I bring to the table:<br><br>Frontend: HTML, CSS, JavaScript, and React.js ⚡<br>Backend: Node.js, Express.js, and PHP 💻<br>Database: MySQL 🗄️<br>Deployment: Google Cloud Platform ☁️<br>I also have experience with Git for version control and Figma for UI/UX design. I'm always eager to learn new technologies and collaborate on exciting projects.<br><br>If you'd like to discuss a project, share ideas, or collaborate, feel free to reach out. Thanks for visiting my profile! 🚀
